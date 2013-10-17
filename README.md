@@ -9,4 +9,4 @@ The puzzle is played on a square grid, such as 5 x 5. The objective is to place 
 
 The program is based on a GUI interface implemented with the Swing/AWT Framework. 
 
-The use can try to solve the game by himself, or find a fixed number of solutions (wich are found using a Backtracking Algorithm).
+The user can try to solve the game by himself, or find a fixed number of solutions (wich are found using a Backtracking Algorithm).
